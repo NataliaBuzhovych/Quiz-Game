@@ -1,5 +1,6 @@
 {
   "name": "quizz",
+  "homepage": "https://nataliabuzhovych.github.io/Quiz-Game/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
